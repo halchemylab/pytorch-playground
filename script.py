@@ -42,3 +42,6 @@ with torch.no_grad():
     test_input = torch.tensor([[6, 12]], dtype=torch.float32)  # Example input
     prediction = model(test_input)
     print(f"Prediction for input [6, 12]: {prediction.item():.2f}")
+
+# Save the model
+torch.save(model.state_dict(), "model.pth")
