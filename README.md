@@ -1,5 +1,3 @@
-# pytorch-playground
-
 # PyTorch Playground
 
 ## Takeaways from Training on a Simple Dataset
