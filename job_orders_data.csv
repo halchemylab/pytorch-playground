@@ -1,0 +1,101 @@
+JobID,RequiredSkills,JobTitle,JobDescription,Location,SalaryRange,CompanyInfo,JobType
+J1,"['Python', 'C++', 'SQL', 'Machine Learning', 'Java', 'Deep Learning']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$79085-$54281,Education,Part-time
+J2,"['SQL', 'Leadership', 'Excel', 'Project Management']",Software Engineer,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$53238-$111200,Education,Full-time
+J3,"['Machine Learning', 'Excel', 'Java', 'SQL', 'Deep Learning', 'Leadership']",Technical Lead,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Boston,$62353-$108034,Finance,Contract
+J4,"['Java', 'Leadership', 'Python', 'Machine Learning', 'Data Analysis', 'Project Management']",Technical Lead,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$106568-$123924,Education,Part-time
+J5,"['Excel', 'Data Analysis', 'Project Management', 'C++', 'Python', 'Machine Learning']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Boston,$78392-$67251,Tech,Contract
+J6,"['Leadership', 'Excel', 'SQL']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",New York,$93099-$98341,Education,Full-time
+J7,"['SQL', 'Python', 'Excel']",Data Scientist,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Austin,$112681-$89665,Healthcare,Contract
+J8,"['Deep Learning', 'Project Management', 'Leadership', 'C++', 'Data Analysis', 'Excel']",Technical Lead,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Austin,$139271-$43361,Finance,Full-time
+J9,"['Leadership', 'Excel', 'C++', 'Python']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$115510-$76340,Education,Part-time
+J10,"['Deep Learning', 'Leadership', 'Project Management', 'C++']",Software Engineer,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Austin,$96500-$106428,Healthcare,Full-time
+J11,"['Machine Learning', 'SQL', 'C++']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Boston,$135986-$124436,Education,Contract
+J12,"['C++', 'Deep Learning', 'Project Management', 'Excel', 'SQL', 'Java']",Software Engineer,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Seattle,$127953-$142049,Retail,Part-time
+J13,"['Project Management', 'Python', 'Java', 'Data Analysis', 'Leadership', 'SQL']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",San Francisco,$123177-$87842,Retail,Part-time
+J14,"['Leadership', 'Excel', 'SQL', 'Java', 'Data Analysis', 'C++']",Data Scientist,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",New York,$75916-$52044,Education,Contract
+J15,"['SQL', 'C++', 'Excel', 'Java']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Boston,$105206-$143619,Retail,Part-time
+J16,"['Data Analysis', 'Machine Learning', 'Leadership', 'Deep Learning', 'Project Management']",Data Scientist,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",San Francisco,$68512-$79500,Finance,Part-time
+J17,"['Project Management', 'Machine Learning', 'Python', 'Leadership', 'Java', 'C++']",Software Engineer,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Seattle,$57443-$42158,Tech,Full-time
+J18,"['Project Management', 'Leadership', 'Machine Learning', 'Python', 'Java']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$61245-$98991,Finance,Contract
+J19,"['Data Analysis', 'Deep Learning', 'Machine Learning', 'C++']",Data Scientist,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",New York,$116060-$147650,Education,Full-time
+J20,"['Excel', 'Project Management', 'Leadership', 'Java', 'Data Analysis', 'Deep Learning']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Seattle,$92621-$145308,Healthcare,Full-time
+J21,"['Excel', 'C++', 'Data Analysis']",Data Scientist,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$136543-$46115,Healthcare,Contract
+J22,"['Excel', 'Machine Learning', 'Python', 'Project Management', 'Deep Learning', 'SQL']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",New York,$63437-$88970,Education,Full-time
+J23,"['Leadership', 'Deep Learning', 'SQL']",Technical Lead,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Seattle,$53288-$96385,Finance,Contract
+J24,"['Leadership', 'Java', 'Python']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",New York,$63892-$105373,Tech,Contract
+J25,"['Deep Learning', 'Machine Learning', 'Data Analysis']",Data Scientist,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Seattle,$45054-$111597,Tech,Full-time
+J26,"['Java', 'C++', 'Machine Learning', 'SQL', 'Data Analysis', 'Project Management']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Seattle,$82369-$80491,Tech,Contract
+J27,"['Project Management', 'SQL', 'Java', 'Python', 'Excel']",Software Engineer,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",San Francisco,$72818-$120841,Retail,Full-time
+J28,"['Deep Learning', 'Excel', 'SQL', 'Machine Learning']",Software Engineer,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Boston,$114381-$50816,Healthcare,Full-time
+J29,"['Excel', 'Python', 'Project Management', 'Java', 'Data Analysis']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Boston,$128933-$81069,Finance,Contract
+J30,"['Python', 'Excel', 'SQL', 'C++']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$67495-$62254,Healthcare,Full-time
+J31,"['Java', 'Leadership', 'Project Management', 'Data Analysis', 'SQL']",Software Engineer,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",New York,$86834-$75395,Healthcare,Part-time
+J32,"['Project Management', 'Python', 'Leadership', 'Data Analysis', 'Java']",Data Scientist,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",San Francisco,$56078-$62920,Finance,Part-time
+J33,"['Project Management', 'Deep Learning', 'C++', 'Python', 'Machine Learning']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Boston,$96639-$143182,Healthcare,Part-time
+J34,"['Data Analysis', 'Python', 'Leadership', 'Excel']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Austin,$87672-$118052,Healthcare,Contract
+J35,"['Excel', 'C++', 'Leadership', 'SQL', 'Python', 'Data Analysis']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",San Francisco,$102924-$109184,Retail,Contract
+J36,"['Python', 'Leadership', 'SQL']",Technical Lead,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$134308-$143671,Tech,Full-time
+J37,"['Python', 'Data Analysis', 'Deep Learning']",Data Scientist,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Boston,$95328-$49646,Healthcare,Part-time
+J38,"['Machine Learning', 'Python', 'C++', 'Java', 'SQL']",Technical Lead,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",New York,$75304-$149466,Education,Full-time
+J39,"['Deep Learning', 'Python', 'Leadership', 'C++', 'Project Management']",Data Scientist,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",New York,$119175-$47963,Education,Part-time
+J40,"['Java', 'Deep Learning', 'Data Analysis', 'Excel', 'Project Management']",Software Engineer,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$118304-$101348,Healthcare,Part-time
+J41,"['SQL', 'Machine Learning', 'Leadership', 'Project Management', 'Excel', 'Data Analysis']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",San Francisco,$43963-$127257,Retail,Full-time
+J42,"['Python', 'Project Management', 'C++', 'Machine Learning']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Austin,$92674-$130424,Tech,Contract
+J43,"['Deep Learning', 'Python', 'Java', 'C++']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$134077-$84085,Education,Contract
+J44,"['Excel', 'Machine Learning', 'Java', 'Project Management', 'Deep Learning']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",New York,$139206-$82003,Retail,Part-time
+J45,"['Excel', 'Python', 'C++', 'Deep Learning']",Software Engineer,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Austin,$111110-$115232,Retail,Part-time
+J46,"['SQL', 'Java', 'Project Management', 'C++', 'Machine Learning', 'Leadership']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",San Francisco,$117172-$52268,Finance,Full-time
+J47,"['Java', 'Project Management', 'Data Analysis']",Data Scientist,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Austin,$86871-$122658,Healthcare,Full-time
+J48,"['Project Management', 'Leadership', 'Python']",Data Scientist,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Seattle,$128271-$104986,Healthcare,Part-time
+J49,"['SQL', 'Java', 'Excel', 'Python', 'Deep Learning', 'C++']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$137378-$70652,Healthcare,Part-time
+J50,"['Excel', 'Leadership', 'Project Management', 'C++', 'SQL', 'Java']",Technical Lead,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",New York,$90302-$122001,Healthcare,Part-time
+J51,"['Machine Learning', 'Data Analysis', 'Leadership']",Technical Lead,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",New York,$138081-$44427,Healthcare,Full-time
+J52,"['C++', 'Python', 'Machine Learning', 'Excel', 'Project Management', 'Deep Learning']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",San Francisco,$52825-$97736,Finance,Full-time
+J53,"['Leadership', 'Python', 'Java', 'SQL', 'Excel', 'Deep Learning']",Data Scientist,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",New York,$68076-$112084,Healthcare,Contract
+J54,"['Python', 'C++', 'Leadership', 'SQL']",Technical Lead,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Austin,$93772-$78191,Tech,Full-time
+J55,"['C++', 'Java', 'Python', 'SQL', 'Leadership', 'Data Analysis']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$87054-$55854,Retail,Full-time
+J56,"['Java', 'Machine Learning', 'Excel', 'Leadership']",Software Engineer,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Austin,$84811-$94551,Finance,Full-time
+J57,"['SQL', 'C++', 'Data Analysis', 'Leadership']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Seattle,$72936-$81103,Retail,Full-time
+J58,"['Java', 'Leadership', 'SQL', 'C++']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Boston,$100896-$63060,Finance,Full-time
+J59,"['SQL', 'Excel', 'C++']",Data Scientist,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$113634-$137925,Retail,Contract
+J60,"['SQL', 'C++', 'Project Management']",Data Scientist,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Seattle,$109983-$114348,Finance,Part-time
+J61,"['Excel', 'SQL', 'Deep Learning']",Data Scientist,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",San Francisco,$134965-$121250,Tech,Part-time
+J62,"['Leadership', 'Java', 'Excel', 'C++', 'Python']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",New York,$97241-$47519,Education,Part-time
+J63,"['Deep Learning', 'SQL', 'Data Analysis']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Austin,$131511-$102760,Finance,Full-time
+J64,"['Python', 'C++', 'Project Management', 'Machine Learning']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Boston,$147983-$147486,Finance,Full-time
+J65,"['Python', 'C++', 'Deep Learning']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$54835-$60146,Finance,Part-time
+J66,"['Python', 'Deep Learning', 'SQL', 'Data Analysis']",Data Scientist,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Boston,$78002-$58707,Tech,Contract
+J67,"['SQL', 'Java', 'Deep Learning', 'Project Management', 'Python']",Technical Lead,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",New York,$108733-$130946,Tech,Full-time
+J68,"['Excel', 'Machine Learning', 'Deep Learning', 'Project Management', 'Java']",Software Engineer,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$91509-$47946,Retail,Part-time
+J69,"['Deep Learning', 'SQL', 'Excel', 'Leadership']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$70963-$49707,Education,Part-time
+J70,"['Machine Learning', 'Python', 'Java']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",New York,$130151-$88014,Tech,Full-time
+J71,"['SQL', 'Excel', 'Machine Learning']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",San Francisco,$58253-$111567,Retail,Part-time
+J72,"['Project Management', 'Deep Learning', 'Data Analysis', 'C++', 'Machine Learning']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Austin,$148303-$144113,Finance,Contract
+J73,"['Deep Learning', 'SQL', 'Data Analysis', 'C++', 'Machine Learning']",Technical Lead,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Boston,$99320-$51548,Finance,Full-time
+J74,"['C++', 'Leadership', 'Excel', 'SQL', 'Project Management']",Software Engineer,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Boston,$148330-$78765,Tech,Part-time
+J75,"['Machine Learning', 'C++', 'SQL', 'Project Management', 'Python']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$115600-$42662,Healthcare,Part-time
+J76,"['Data Analysis', 'Leadership', 'C++', 'Java', 'Project Management', 'Machine Learning']",Technical Lead,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$61485-$70950,Retail,Contract
+J77,"['Project Management', 'C++', 'Java', 'Deep Learning', 'SQL']",Technical Lead,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$123475-$112106,Tech,Contract
+J78,"['Java', 'Excel', 'Leadership', 'Project Management', 'C++']",Technical Lead,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Boston,$68774-$47323,Finance,Part-time
+J79,"['Project Management', 'Excel', 'Deep Learning', 'C++']",Data Scientist,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",San Francisco,$122109-$123212,Healthcare,Part-time
+J80,"['SQL', 'Excel', 'Deep Learning', 'Project Management', 'C++', 'Data Analysis']",Data Scientist,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Seattle,$102113-$84178,Education,Part-time
+J81,"['Excel', 'SQL', 'Project Management']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",New York,$136901-$89942,Tech,Full-time
+J82,"['Machine Learning', 'Java', 'Project Management', 'SQL']",Technical Lead,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",San Francisco,$141309-$82904,Healthcare,Contract
+J83,"['C++', 'Excel', 'Python']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",San Francisco,$118780-$69703,Healthcare,Full-time
+J84,"['Python', 'Machine Learning', 'Data Analysis', 'Leadership']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",San Francisco,$77017-$118332,Finance,Part-time
+J85,"['Project Management', 'C++', 'Machine Learning']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Austin,$80019-$106236,Education,Part-time
+J86,"['Java', 'Machine Learning', 'SQL', 'Leadership', 'Excel']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Seattle,$60005-$86857,Education,Contract
+J87,"['Data Analysis', 'Excel', 'C++', 'Python', 'Project Management']",Data Scientist,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",New York,$81128-$105673,Tech,Full-time
+J88,"['SQL', 'C++', 'Deep Learning', 'Excel']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Seattle,$115558-$143794,Tech,Full-time
+J89,"['Java', 'Deep Learning', 'Project Management', 'Leadership']",Technical Lead,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Austin,$64244-$119337,Finance,Part-time
+J90,"['Deep Learning', 'Excel', 'Project Management', 'Data Analysis', 'C++', 'Machine Learning']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",San Francisco,$71774-$75086,Tech,Full-time
+J91,"['SQL', 'Deep Learning', 'Python']",Software Engineer,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Seattle,$148117-$123306,Retail,Part-time
+J92,"['Data Analysis', 'SQL', 'Excel', 'Deep Learning', 'Project Management', 'Python']",Technical Lead,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Boston,$113589-$85569,Healthcare,Contract
+J93,"['Python', 'Leadership', 'Deep Learning', 'Data Analysis', 'Excel', 'Project Management']",Software Engineer,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Boston,$138010-$76984,Retail,Part-time
+J94,"['Data Analysis', 'Excel', 'Deep Learning', 'Project Management', 'Leadership', 'SQL']",Technical Lead,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Boston,$72762-$44089,Retail,Contract
+J95,"['Deep Learning', 'Leadership', 'Python', 'Project Management', 'Excel', 'Data Analysis']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",New York,$73790-$61572,Tech,Part-time
+J96,"['SQL', 'C++', 'Excel', 'Leadership', 'Python', 'Data Analysis']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Seattle,$109555-$45469,Tech,Contract
+J97,"['Leadership', 'Data Analysis', 'Excel', 'Machine Learning', 'Python', 'C++']",Software Engineer,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Seattle,$106962-$68257,Retail,Contract
+J98,"['SQL', 'Excel', 'Project Management', 'Leadership', 'C++', 'Machine Learning']",Technical Lead,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Chicago,$67650-$117725,Tech,Part-time
+J99,"['Project Management', 'Python', 'SQL', 'Machine Learning', 'Excel']",Analyst,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",New York,$112904-$72177,Tech,Full-time
+J100,"['Python', 'Leadership', 'Machine Learning', 'Project Management', 'Deep Learning']",Project Manager,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Austin,$126489-$56620,Retail,Contract
